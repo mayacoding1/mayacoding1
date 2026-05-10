@@ -1,13 +1,13 @@
 ## Hello! :D 👋
 Just a beginnner programmer looking to program FTC robots!
 
+## About me:
 Pronouns: she/her
 
-Stuff I'm working on: 
+I'm working on: 
 - Creating autonomous programs with PedroPathing
 - Building a website for my FTC team
-
-
+- Improving my Java skills
 
 ## Skills:
 <p align="left">
@@ -15,6 +15,8 @@ Stuff I'm working on:
 <img height="40" alt="HTML" src="https://github.com/user-attachments/assets/09230d82-759d-44b0-b92c-e2ca165c347d" />
 <img height="40" alt="CSS" src="https://github.com/user-attachments/assets/763c27d2-fc83-4624-bea4-277cc2c2fcc4" />
 <img height="40" alt="Java" src="https://github.com/user-attachments/assets/b0480c6c-7676-40de-bf56-68a7aa60cb20" />
+<img height="40" alt="Visual Studio Code" src="https://github.com/user-attachments/assets/1ce6d048-fdb9-4a03-aa9f-aa49d9aa7b5f" />
+
 </p>
 
 
