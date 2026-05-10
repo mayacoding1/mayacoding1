@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello! :D 👋
+
+## Skills:
+<img width="1869" height="2048" alt="python" src="https://github.com/user-attachments/assets/0f4a54dd-3c76-4406-8b8b-ab48b06ff680" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d56b1602-d1b7-4085-bbc6-8bce2edb0907" />
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/c774a5a4-8d2e-4996-802e-be46750a34c5" />
+<img width="166" height="304" alt="image" src="https://github.com/user-attachments/assets/30c7b5d6-55b7-46e4-8f48-1606149bc2a8" />
+
+
+
+
 
 <!--
 **mayacoding1/mayacoding1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
