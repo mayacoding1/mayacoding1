@@ -1,7 +1,7 @@
-## Hello! :D 👋
+## ✨ Hello! :D
 Just a beginnner programmer learning Java for FTC!
 
-## About me:
+## ✨ About me:
 Pronouns: she/her
 
 I'm working on: 
@@ -9,28 +9,12 @@ I'm working on:
 - Building a website for my FTC team
 - Improving my Java skills
 
-## Skills:
+## ✨ Skills:
 <p align="left">
 <img height="40" alt="Python" src="https://github.com/user-attachments/assets/0f4a54dd-3c76-4406-8b8b-ab48b06ff680" />
-<img height="40" alt="HTML" src="https://github.com/user-attachments/assets/09230d82-759d-44b0-b92c-e2ca165c347d" />
+<img height="40" alt="HTML" src="https://github.com/user-attachments/assets/60ec5093-9db9-42f0-8bef-5e1822de97ba" />
 <img height="40" alt="CSS" src="https://github.com/user-attachments/assets/763c27d2-fc83-4624-bea4-277cc2c2fcc4" />
 <img height="40" alt="Java" src="https://github.com/user-attachments/assets/b0480c6c-7676-40de-bf56-68a7aa60cb20" />
 <img height="40" alt="Visual Studio Code" src="https://github.com/user-attachments/assets/1ce6d048-fdb9-4a03-aa9f-aa49d9aa7b5f" />
 
 </p>
-
-
-<!--
-**mayacoding1/mayacoding1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
