@@ -1,5 +1,5 @@
 ## Hello! :D 👋
-Just a beginnner programmer looking to program FTC robots!
+Just a beginnner programmer learning Java for FTC!
 
 ## About me:
 Pronouns: she/her
