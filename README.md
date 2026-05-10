@@ -1,9 +1,9 @@
 ## Hello! :D 👋
 
 ## Skills:
-<img width="200" alt="Python" src="https://github.com/user-attachments/assets/0f4a54dd-3c76-4406-8b8b-ab48b06ff680" /> <br><br>
-<img width="200" alt="HTML" src="https://github.com/user-attachments/assets/09230d82-759d-44b0-b92c-e2ca165c347d" /> <br><br>
-<img width="200" alt="CSS" src="https://github.com/user-attachments/assets/763c27d2-fc83-4624-bea4-277cc2c2fcc4" /> <br><br>
+<img width="200" alt="Python" src="https://github.com/user-attachments/assets/0f4a54dd-3c76-4406-8b8b-ab48b06ff680" />
+<img width="200" alt="HTML" src="https://github.com/user-attachments/assets/09230d82-759d-44b0-b92c-e2ca165c347d" />
+<img width="200" alt="CSS" src="https://github.com/user-attachments/assets/763c27d2-fc83-4624-bea4-277cc2c2fcc4" />
 <img height="400" alt="image" src="https://github.com/user-attachments/assets/b0480c6c-7676-40de-bf56-68a7aa60cb20" />
 
 
