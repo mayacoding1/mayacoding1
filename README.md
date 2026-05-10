@@ -2,8 +2,8 @@
 
 ## Skills:
 <img width="400" alt="python" src="https://github.com/user-attachments/assets/0f4a54dd-3c76-4406-8b8b-ab48b06ff680" />
-<img width="400" alt="HTML" src="https://github.com/user-attachments/assets/d56b1602-d1b7-4085-bbc6-8bce2edb0907" />
-<img width="400" alt="CSS" src="https://github.com/user-attachments/assets/c774a5a4-8d2e-4996-802e-be46750a34c5" />
+<img width="400" height="400" alt="HTML" src="https://github.com/user-attachments/assets/09230d82-759d-44b0-b92c-e2ca165c347d" />
+<img width="400" alt="CSS" src="https://github.com/user-attachments/assets/763c27d2-fc83-4624-bea4-277cc2c2fcc4" />
 <img width="400" height="Java" alt="image" src="https://github.com/user-attachments/assets/30c7b5d6-55b7-46e4-8f48-1606149bc2a8" />
 
 
