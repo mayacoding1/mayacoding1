@@ -9,7 +9,9 @@ Just a beginnner programmer looking to program FTC robots!
 <img height="40" alt="Java" src="https://github.com/user-attachments/assets/b0480c6c-7676-40de-bf56-68a7aa60cb20" />
 </p>
 
-
+.p{
+gap: 10;
+}
 
 
 <!--
