@@ -11,7 +11,7 @@ I'm working on:
 
 ## My Website:
 Check out the website I'm making for my team! 
-Currently located at: mayacoding1.github.io
+Currently located at: <a href="mayacoding1.github.io">mayacoding1.github.io</a>
 
 ## ✨ Skills:
 <p align="left">
