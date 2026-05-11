@@ -10,8 +10,8 @@ I'm working on:
 - Improving my Java skills
 
 ## My Website:
-Check out the website I'm making for my team!<br><br>
-Currently located at: <a href="https://mayacoding1.github.io">mayacoding1.github.io</a>
+Check out the website I'm making for my team!<br>
+Currently located at: <a href="https://mayacoding1.github.io" target="_blank">mayacoding1.github.io</a>
 
 ## ✨ Skills:
 <p align="left">
