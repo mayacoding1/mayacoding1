@@ -9,6 +9,10 @@ I'm working on:
 - Building a website for my FTC team
 - Improving my Java skills
 
+## My Website:
+Check out the website I'm making for my team! 
+Currently located at: mayacoding1.github.io
+
 ## ✨ Skills:
 <p align="left">
 <img height="40" alt="Python" src="https://github.com/user-attachments/assets/0f4a54dd-3c76-4406-8b8b-ab48b06ff680" />
