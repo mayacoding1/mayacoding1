@@ -21,6 +21,6 @@ Currently located at: <a href="https://18209-full-stop.github.io" target="_blank
 <img height="40" alt="CSS" src="https://github.com/user-attachments/assets/763c27d2-fc83-4624-bea4-277cc2c2fcc4" />
 <img height="40" alt="Java" src="https://github.com/user-attachments/assets/b0480c6c-7676-40de-bf56-68a7aa60cb20" />
 <img height="40" alt="Visual Studio Code" src="https://github.com/user-attachments/assets/1ce6d048-fdb9-4a03-aa9f-aa49d9aa7b5f" />
-<img height="40" alt ="Swift" src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fdeveloper.apple.com%2Fswift%2F&ved=0CBYQjRxqFwoTCJDHxvfDkZUDFQAAAAAdAAAAABAG&opi=89978449" />
+<img height="40" alt ="Swift" src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" />
 
 </p>
